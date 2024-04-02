@@ -11,7 +11,7 @@ I'm Fahimi Mouad, a passionate software ingeneur from Morocco.
 [![](https://img.shields.io/badge/-Tool-orange)]()
 
 ### GitHub Stats:
-![Your GitHub stats](https://github-readme-stats.vercel.app/api/top-langs/?username=mouadfhm&show_icons=true&theme=radical)
+![Your GitHub stats](https://github-readme-stats.vercel.app/api/?username=mouadfhm&show_icons=true&theme=radical)
 
 ### Top Languages:
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=mouadfhm&layout=compact&theme=radical)
