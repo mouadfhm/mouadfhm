@@ -19,6 +19,3 @@
 <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=mouadfhm&show_icons=true&locale=en" alt="mouadfhm" /></p>
 
 <p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=mouadfhm&" alt="mouadfhm" /></p>
-<style>
-  .img:background-color=black
-</style>
